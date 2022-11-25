@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.carousel-inner{
+    width: 100%;
+    height: 500px;
+    
+}
+.carousel-item{
+    width: 100%;
+    height: 100%;
+   
+}
+.awalan{
+    padding: 0 185px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.text-justify{
+    text-align: left;
+    max-width: 600px;
+}
+.card-text{
+    text-align: justify;
+}
+.beli{
+    margin-bottom: 20px;
+}
+.penuh{
+    width: 100%;
+}
+.card{
+    border: 3px solid #000;
+}
+.card-title{
+    border-top: 3px solid #000;
+    padding-top: 10px;
+}
+.komen{
+    padding-bottom: 90px;
+}
+.contact{
+    background-color: #e4f1fb;
+   padding: 20px 0;
+   margin: 20px 0;
+}
+.isian{
+    width: 1000px;
+}
+.dalam{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+.info p{
+    color: #65747f;
+}
+
